@@ -36,9 +36,18 @@ I'm a Computer Engineering student from Mumbai, passionate about **Data Science*
 
 ## 🌟 Featured Projects:
 
-### 📈 **Stock Prediction Website**
-- Developed a website providing investment insights based on historical stock data.
-- Implemented ML models achieving 85% prediction accuracy.
+
+###  **Employee Performance Prediction Model Using Regression Techniques (Python)**        
+•	Built a regression model using Linear Regression, Ridge, Lasso, and XGBoost to predict employee performance scores.
+•	Achieved a high R² score of 96.79%, ensuring reliable performance predictions and actionable Insights for employee evaluation.
+
+
+
+ ###   **Placement Readiness Analyzer (Python)**	        
+•	Developed an interactive web application using Streamlit that analyzes resumes and evaluates placement readiness.
+•	Enabled PDF resume parsing, interactive Q&A sections, and downloadable feedback reports for candidates.
+
+
 
 ### 🧠 **Brain Tumor Detector**
 - Designed a CNN-based system to detect brain tumors from MRI images with 92% accuracy.
