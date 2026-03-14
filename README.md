@@ -37,7 +37,7 @@ I'm a final-year Computer Engineering student from Mumbai, building real-world A
 | 📄 [Placement Readiness Analyzer](#) | NLP system to analyze resumes & evaluate placement readiness | Python, Streamlit, NLP | Resume parsing + scoring |
 | ✍️ [LinkedIn Content Generator](#) | Generative AI app to create LinkedIn posts via LangChain | Python, Streamlit, LangChain | Few-shot prompting |
 
-> 📌 *Replace the `#` links above with your actual repo URLs*
+> 
 
 ---
 
