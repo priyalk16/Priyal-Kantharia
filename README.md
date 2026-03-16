@@ -12,6 +12,9 @@
 
 I'm a final-year Computer Engineering student from Mumbai, building real-world AI systems using Python, TensorFlow, and LangChain. I have hands-on experience in ML model development, NLP pipelines, Generative AI, and deploying interactive data applications. Currently seeking opportunities in AI/ML Engineering.
 
+
+How to reach me - kanthariapriyal16@gmail.com
+
 ---
 
 ## 💼 Experience
