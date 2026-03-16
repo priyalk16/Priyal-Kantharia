@@ -94,6 +94,8 @@ Linkedin- https://www.linkedin.com/in/priyalkantharia/
 - 🎓 Complete A.I. and Machine Learning Bootcamp — Udemy
 - 📊 Data Visualization — Tata Forage
 - 🔬 Enduro Program — IIT Hyderabad Alumni Association
+- 📊  Introduction to generative AI - Google
+Google
 
 ---
 
