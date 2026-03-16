@@ -14,7 +14,7 @@ I'm a final-year Computer Engineering student from Mumbai, building real-world A
 
 
 How to reach me - kanthariapriyal16@gmail.com
-
+Linkedin- https://www.linkedin.com/in/priyalkantharia/
 ---
 
 ## 💼 Experience
